@@ -45,7 +45,7 @@ Analogicznie mamy:
 | 1234H    | 5678H    |
 
 
-## Liczenie pamięci cashe
+## Liczenie pamięci cache
 
 ### Przykład (zadanie z wykładu)
 
