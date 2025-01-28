@@ -9,7 +9,7 @@ geometry: margin=3cm
 ## Bezpośrednie
 ![Bezpośrednie](bezposrednie.png)
 ## Asocjacyjne
-![Asocjacyjne](asocjacyjnse.png)
+![Asocjacyjne](asocjacyjne.png)
 
 ## Translacja adresu
 Przypisanie wartości na podstawie podanego adresu
