@@ -1,8 +1,15 @@
+---
+#title: Notatki z ako nt pamięci cache
+#author: Julian Kotłowski
+geometry: margin=3cm
+---
+
+
 # Pamięć cache
 ## Bezpośrednie
 ![Bezpośrednie](bezposrednie.png)
 ## Asocjacyjne
-![Asocjacyjne](asocjacyjne.png)
+![Asocjacyjne](asocjacyjnse.png)
 
 ## Translacja adresu
 Przypisanie wartości na podstawie podanego adresu
