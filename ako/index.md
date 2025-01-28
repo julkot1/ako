@@ -16,6 +16,7 @@ Przykład mamy:
 | 16 bit   | 12 bit   | 4 bit             |
 
 Dla podanego adresu mamy:
+
 | Etykieta | Nr linii | Adres wewn. bloku |
 |----------|----------|-------------------|
 | 1234H    | 567H     | 8H                |
